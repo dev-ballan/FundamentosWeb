@@ -1,0 +1,77 @@
+/* Estilos da página index.html */
+
+*{
+    color: white;
+}
+.container{
+    display:flex;
+    flex-flow: row;
+    align-items: center;
+    background-color: #04052E;
+    color: azure;
+    
+}
+img{
+    align-items: flex-start;
+}
+body{
+    background-color:black;
+}
+#sub{
+    text-align: center;
+    vertical-align: text-top;
+    
+}
+p{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align:justify;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#titulo{
+    color: ghostwhite;
+}
+.menu li{
+    background-color: #04052E;
+    padding-left: 20px;
+    padding: 15px;
+    display: inline;
+    color: white;
+    font-size: 20px;  
+}
+.menu a :hover{
+    color: blue;
+}
+.contato{
+    color: white;
+    padding: 20px;
+}
+button{
+    color: black
+}
+
+
+
+
+/* Estilos da página contato.html */
+
+.rodape{
+    padding: 20px;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    background-color: #04052E;
+}
+.tm{
+    width: 30px;
+    height: 30px;
+    padding:""
+}
+.p30{
+    padding: 30px;
+}
+.ml-50{
+    margin-left: 50px;
+}
